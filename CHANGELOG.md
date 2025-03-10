@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.16.0](https://www.github.com/gzzhanghao/ts-to-zod/compare/v3.15.0...v3.16.0) (2025-03-10)
+
+
+### Features
+
+* add inputOutputMappingFn support ([421f446](https://www.github.com/gzzhanghao/ts-to-zod/commit/421f446c58b3d309969fbc0ce0753a1729adf79d))
+
 ## [3.15.0](https://www.github.com/fabien0102/ts-to-zod/compare/v3.14.1...v3.15.0) (2024-11-29)
 
 
