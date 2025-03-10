@@ -60,4 +60,14 @@ export const inputOutputMappingSchema = configSchema.pick({
   getSchemaName: true,
 });
 
+export const inputOutputMappingFnSchema = z
+  .function()
+  .args(z.string())
+  .returns(
+    z.union([
+      configSchema.pick({ output: true, getSchemaName: true }),
+      z.undefined(),
+    ])
+  );
+
 export const tsToZodConfigSchema = z.union([configSchema, configsSchema]);
