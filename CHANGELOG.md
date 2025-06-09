@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.16.1](https://www.github.com/gzzhanghao/ts-to-zod/compare/v3.16.0...v3.16.1) (2025-06-09)
+
+
+### Bug Fixes
+
+* zodImportSource ([73a3f91](https://www.github.com/gzzhanghao/ts-to-zod/commit/73a3f91ca9990367e5a59519f9bb6accad1e7ab0))
+
 ## [3.16.0](https://www.github.com/gzzhanghao/ts-to-zod/compare/v3.15.0...v3.16.0) (2025-06-09)
 
 
